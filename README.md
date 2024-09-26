@@ -1,4 +1,4 @@
-# Milestone2ResumeBuilderbyMRC
+# Milestone1&Milestone2ResumeBuilderbyMRC
 
 Milestone 2: Publish on GitHub and Host on Vercel (100 Points) 
 Objective:
